@@ -71,6 +71,10 @@ _✨ Qwen Chat ✨_
  - [ ] 永久记忆（指本地保存）对话上下文
  - [ ] 全模态支持（需要等Qwen Omni）
 
+## 参考的项目（仅参考逻辑）
+[nonebot_plugin_random_reply](https://github.com/Alpaca4610/nonebot_plugin_random_reply)
+[Emo Visual Data](https://github.com/LLM-Red-Team/emo-visual-data)
+
 <!--## 二次开发声明
 任何基于本项目的修改版本需满足：
 - 保留原作者 糕蛋\Ekac_ 的版权声明；
