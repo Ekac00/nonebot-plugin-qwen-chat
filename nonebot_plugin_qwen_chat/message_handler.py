@@ -146,6 +146,7 @@ class QwenChatHandler:
              
         # 保存到localstore
         os.makedirs(self.data_dir, exist_ok=True)
+        context_file = os.path.join(self.data_dir, f"{context_key}.json")
         with open(context_file, "w", encoding="utf-8") as f:
             json.dump(self.contexts[context_key], f, ensure_ascii=False)
             
