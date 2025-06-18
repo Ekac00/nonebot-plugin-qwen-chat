@@ -23,10 +23,10 @@ _✨ 一个bot可以主动发送消息、表情包或自主让长消息分段发
 </div>
 
 > [!NOTE]
-> 临近期末，作者在复习所以暂停更新
+> 体验内测版请前往[dev分支](https://github.com/Ekac00/nonebot-plugin-qwen-chat/tree/dev)
 
 > [!NOTE]
-> 更新预告：表情包相关
+> 临近期末，作者在复习所以暂停更新
 
 ## 📖 介绍
 
