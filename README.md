@@ -25,9 +25,6 @@ _✨ 一个bot可以主动发送消息、表情包或自主让长消息分段发
 > [!NOTE]
 > 体验内测版请前往[dev分支](https://github.com/Ekac00/nonebot-plugin-qwen-chat/tree/dev)
 
-> [!NOTE]
-> 临近期末，作者在复习所以暂停更新
-
 ## 📖 介绍
 
 现有大模型对话插件配置难？回复慢？不能发图片？不能自定义角色？
@@ -75,9 +72,9 @@ _✨ 一个bot可以主动发送消息、表情包或自主让长消息分段发
  - [ ] 永久记忆（指本地保存）对话上下文
  - [ ] 全模态支持（需要等Qwen Omni）
 
-## 参考的项目（仅参考逻辑）
+## 参考的项目
 [nonebot_plugin_random_reply](https://github.com/Alpaca4610/nonebot_plugin_random_reply)
-[Emo Visual Data](https://github.com/LLM-Red-Team/emo-visual-data)
+[MaiBot](https://github.com/MaiM-with-u/MaiBot)
 
 <!--## 二次开发声明
 任何基于本项目的修改版本需满足：
